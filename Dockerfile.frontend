@@ -1,0 +1,7 @@
+FROM getlago/front:v1.29.0
+
+# The frontend serves on port 80 by default
+EXPOSE 80
+
+# Render expects PORT env variable
+ENV PORT=80
