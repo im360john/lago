@@ -1,0 +1,2 @@
+FROM getlago/api:v1.29.0
+CMD ["./scripts/start.worker.sh"]
