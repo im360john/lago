@@ -1,4 +1,4 @@
-FROM getlago/api:v1.29.0
+FROM getlago/api:v1.31.0
 
 # Expose the API port
 EXPOSE 3000
