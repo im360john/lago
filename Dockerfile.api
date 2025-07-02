@@ -1,0 +1,6 @@
+FROM getlago/api:v1.29.0
+
+# Expose the API port
+EXPOSE 3000
+
+# The start command is already set in the base image
