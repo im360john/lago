@@ -1,4 +1,4 @@
-FROM getlago/front:v1.29.0
+FROM getlago/front:v1.31.0
 
 # The frontend serves on port 80 by default
 EXPOSE 80
